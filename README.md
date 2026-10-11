@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I am Vineet Shukla
+<img src="https://raw.githubusercontent.com/vineetanalytics/vineetanalytics/main/vineet_banner_v2%402x.png" alt="Vineet Shukla - Aspiring Data Analyst" width="100%" />
 
-### Aspiring Data Analyst · Python Learner · Dashboard Builder
+### Python Learner · Dashboard Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
-[![Profile Views](https://komarev.com/ghpvc/?username=vineetanalytics&style=for-the-badge&color=blueviolet)](https://github.com/vineetanalytics)
+[![Profile Views](https://komarev.com/ghpvc/?username=vineetanalytics&style=for-the-badge&color=2563EB)](https://github.com/vineetanalytics)
 
 </div>
 
